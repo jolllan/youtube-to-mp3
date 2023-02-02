@@ -1,7 +1,7 @@
 # youtube-to-mp3
 
-Fonctionne uniquement sur Raspberry Pi 4 avec un OS 64bits  **(aarch64)**
-
+Fonctionne uniquement sur Raspberry Pi 4 avec un OS 64 bits  **(aarch64)**
+Une version prenant en charge plus de version arrivera plus tard.
 Vous devez avoir **ffmpeg** dans le path.
 
 **Chose à savoir**
@@ -12,7 +12,7 @@ Vous devez avoir **ffmpeg** dans le path.
 **Installation :**
 
 Télécharger le script
-`https://raw.githubusercontent.com/jolllan/youtube-to-mp3/master/download.sh`
+`wget https://raw.githubusercontent.com/jolllan/youtube-to-mp3/master/download.sh`
 
 Le rendre exécutable : 
 `sudo chmod +x download.sh`
