@@ -20,3 +20,5 @@ Le rendre exécutable :
 **Lancement :**
 
 Simplement `./download.sh`
+
+Il prend en charge une vidéo comme les playlists
