@@ -12,6 +12,6 @@ Télécharger le script
 Le rendre exécutable : 
 `sudo chmod +x download.sh`
 
-**Lancement**
+**Lancement :**
 
 Simplement `./download.sh`
